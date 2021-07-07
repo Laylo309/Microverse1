@@ -1,0 +1,42 @@
+body {
+  background-color: rgb(238, 238, 238);
+}
+
+#bod {
+  background-color: white;
+  margin: auto;
+  width: 90%;
+  padding: 10px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#hedings1,
+#headings2 {
+  text-align: center;
+}
+
+#para {
+  text-align: center;
+}
+
+#years,
+#quote,
+#link {
+  background-color: rgb(238, 238, 238);
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+  position: relative;
+}
+
+#img {
+  margin-left: 6%;
+  display: block;
+  width: 40%;
+  padding: 1vh;
+}
+
+#link {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+}
